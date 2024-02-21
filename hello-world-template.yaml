@@ -43,6 +43,7 @@ spec:
 #         ui:field: EntityTagsPicker
       repoUrl:
         type: string
+        description: https://google.com
         ui:field: RepoUrlPicker
         ui:options:
           allowedHosts:
